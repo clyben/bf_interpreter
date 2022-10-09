@@ -8,4 +8,4 @@ a very tiny brainfuck language interpreter written in Haskell
 - brainf
     folder that have some sample program from brainfuck.org
 
-- to compile:  gcc -o bf bf.hs
+- to compile:  ghc -o bf bf.hs
